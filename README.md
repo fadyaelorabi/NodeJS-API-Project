@@ -101,7 +101,7 @@ A Postman collection is included to make testing the API easier.
 
 ### 🧪 How to Use:
 
-1. Download the collection file: [`ShopSmart.postman_collection.json`](./nodejs-bootcamp.postman_collection.json)
+1. Download the collection file: [`nodejs-bootcamp.postman_collection.json`](./nodejs-bootcamp.postman_collection.json)
 2. Open **Postman**.
 3. Click on **"Import"** > Select the downloaded `.json` file.
 4. The collection will appear in your workspace.
