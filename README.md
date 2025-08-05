@@ -80,4 +80,19 @@ A scalable and secure REST API built using **Node.js**, **Express**, and **Mongo
 ---
 
 ## 📁 Project Structure
+```
+project/
+│
+├── controllers/       # Business logic
+├── models/            # Mongoose schemas
+├── routes/            # API routes
+├── middlewares/       # Auth & error handling
+├── uploads/           # File storage
+├── utils/             # Helper functions
+├── config/            # Configuration files
+├── .env               # Environment variables
+├── index.js          # App entry point
+└── README.md          # Project documentation
+```
+
 
