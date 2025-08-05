@@ -95,4 +95,18 @@ project/
 └── README.md          # Project documentation
 ```
 
+## 📬 API Testing with Postman
+
+A Postman collection is included to make testing the API easier.
+
+### 🧪 How to Use:
+
+1. Download the collection file: [`ShopSmart.postman_collection.json`](./nodejs-bootcamp.postman_collection.json)
+2. Open **Postman**.
+3. Click on **"Import"** > Select the downloaded `.json` file.
+4. The collection will appear in your workspace.
+5. Use the predefined requests to test registration, login, protected routes, and more.
+
+> Make sure your server is running at `http://localhost:5000` or update the base URL accordingly.
+
 
